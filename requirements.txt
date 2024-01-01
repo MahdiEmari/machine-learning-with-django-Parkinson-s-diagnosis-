@@ -1,0 +1,6 @@
+Django==4.2
+scikit-learn
+sklearn
+numpy==1.24.3
+pandas==2.0.1
+
