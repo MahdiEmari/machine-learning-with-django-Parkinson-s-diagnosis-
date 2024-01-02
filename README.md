@@ -18,6 +18,6 @@ The dataset used for this project can be found at [Kaggle - Parkinson's Disease 
 
 ## More Information
 
-For detailed information about the project and screenshots, please refer to the [help_project](help_project.pdf) file.
+For detailed information about the project , please refer to the [help_project](help_project.pdf) file.
 
 If you like this project, do give it a "Star". Thank you.
